@@ -4,14 +4,14 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #121212;
     color: #333;
     transition: background 0.3s, color 0.3s;
 }
 
 /* Header Section */
 header {
-    background: #6200ea;
+    background: #1f1f1f;
     color: white;
     padding: 20px;
 }
@@ -20,14 +20,14 @@ button {
     padding: 10px 15px;
     border: none;
     cursor: pointer;
-    background: #ff9800;
+    background: #ff4081;
     color: white;
     font-size: 16px;
     border-radius: 5px;
 }
 
 button:hover {
-    background: #e68a00;
+    background: #00bcd4;
 }
 
 /* Projects Section */
